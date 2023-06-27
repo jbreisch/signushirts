@@ -9,3 +9,11 @@ main{
 li {
   margin-bottom: 1%;
 }
+
+img {
+  width: 100%;
+  height: auto;
+  max-height: 403.2px;
+  max-width: 302.4px;
+}
+
